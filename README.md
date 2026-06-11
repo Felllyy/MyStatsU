@@ -58,8 +58,8 @@ Pastikan sudah menginstall:
 Clone repository:
 
 ```bash
-git clone https://github.com/RanadiWijaya/U-Stats.git
-cd U-Stats
+git clone https://github.com/Felllyy/MyStatsU.git
+cd MyStatsU
 ```
 
 Masuk ke folder backend dan install dependency:
