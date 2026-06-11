@@ -1,8 +1,12 @@
 # Anggota Kelompok
 Kavka Yuza Gazetta                              103012400339
+
 Annafi Rafy Kurnia Nurhakim                     103012400352
+
 Rafa Khayzura Erlano Putra                      103012400269
+
 I Made Ranadi Wijaya                            103012400390
+
 Felly Adhiansyah Putra Nababan                  103012400129
 
 # MyStatsU
